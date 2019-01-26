@@ -6,8 +6,11 @@ Creates PDFs with a table of name.
 ![](Pictures/simple.png)
 
 
-The image label doesn't work
+The image label doesn't work when run
 ![](Pictures/example_run.png)
-![](Pictures/pdf_file.png)
+
+![](Pictures/pdf_file.PNG)
+
 ![](Pictures/txt_file.png)
-![](Pictures/example_result.png)
+
+![](Pictures/example_result.PNG)
